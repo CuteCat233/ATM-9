@@ -62,7 +62,7 @@
 			subtitle: "{atm9.quest.power.subt.reactors}"
 			tasks: [{
 				id: "70CC25EA15DBE615"
-				title: "Bigger Reactors"
+				title: "atm9.quest.power.task.reactors"
 				type: "checkmark"
 			}]
 			title: "{atm9.quest.power.reactors}"
@@ -111,7 +111,7 @@
 						]
 					}
 				}
-				title: "Renewable Energy Gens"
+				title: "{atm9.quest.power.task.meka}"
 				type: "item"
 			}]
 			title: "{atm9.quest.power.meka}"
@@ -188,7 +188,7 @@
 			subtitle: "{atm9.quest.power.subt.early}"
 			tasks: [{
 				id: "55F3497E936C4885"
-				title: "{atm9.quest.power.early}"
+				title: "{atm9.quest.power.task.early}"
 				type: "checkmark"
 			}]
 			x: -5.0d
@@ -272,7 +272,7 @@
 						]
 					}
 				}
-				title: "Universal Cables"
+				title: "{atm9.quest.power.task.cables}"
 				type: "item"
 			}]
 			title: "{atm9.quest.power.cables}"
@@ -304,7 +304,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "6D3C243268479EE9"
-				title: "{atm9.quest.power.moving}"
+				title: "{atm9.quest.power.task.moving}"
 				type: "checkmark"
 			}]
 			x: -9.0d
@@ -356,7 +356,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "3121BA0C9976AFCD"
-				title: "{atm9.quest.power.storage}"
+				title: "{atm9.quest.power.task.storage}"
 				type: "checkmark"
 			}]
 			x: 3.0d
@@ -412,7 +412,7 @@
 						]
 					}
 				}
-				title: "Energy Cubes"
+				title: "{atm9.quest.power.task.cube}"
 				type: "item"
 			}]
 			title: "{atm9.quest.power.cube}"
@@ -460,7 +460,7 @@
 						]
 					}
 				}
-				title: "Powercells"
+				title: "{atm9.quest.power.task.cells}"
 				type: "item"
 			}]
 			title: "{atm9.quest.power.cells}"
@@ -565,7 +565,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "215F37D96DF88189"
-				title: "Powah"
+				title: "{atm9.quest.power.task.powah}"
 				type: "checkmark"
 			}]
 			title: "{atm9.quest.power.powah}"
@@ -587,7 +587,7 @@
 			subtitle: "{atm9.quest.power.subt.end}"
 			tasks: [{
 				id: "03A4FFC4CFCA5DB7"
-				title: "{atm9.quest.power.end}"
+				title: "{atm9.quest.power.task.end}"
 				type: "checkmark"
 			}]
 			x: -3.5d
@@ -637,10 +637,10 @@
 						]
 					}
 				}
-				title: "Pipe Upgrades"
+				title: "{atm9.quest.power.task.better_pipez}"
 				type: "item"
 			}]
-			title: "{atm9.quest.power.betterpipez}"
+			title: "{atm9.quest.power.better_pipez}"
 			x: -11.5d
 			y: 0.5d
 		}
@@ -662,7 +662,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "4FC7F1A8F2BDEF93"
-				title: "{atm9.quest.power.more}"
+				title: "{atm9.quest.power.task.more}"
 				type: "checkmark"
 			}]
 			x: 3.0d
