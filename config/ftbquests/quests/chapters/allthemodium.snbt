@@ -13,9 +13,7 @@
 			dependencies: ["731686C758AD9A99"]
 			dependency_requirement: "one_completed"
 			description: [
-				"{atm9.quest.allthemodium.desc.atm_ore1}"
-				""
-				"{atm9.quest.allthemodium.desc.atm_ore2}"
+				"{atm9.quest.allthemodium.desc.atm_ore}"
 			]
 			hide_dependency_lines: false
 			hide_until_deps_visible: false
@@ -68,13 +66,7 @@
 			dependencies: ["5BDBE666E604FCAC"]
 			dependency_requirement: "one_started"
 			description: [
-				"{atm9.quest.allthemodium.desc.vib_ore1}"
-				""
-				"{atm9.quest.allthemodium.desc.vib_ore2}"
-				""
-				"{atm9.quest.allthemodium.desc.vib_ore3}"
-				""
-				"{atm9.quest.allthemodium.desc.vib_ore4}"
+				"{atm9.quest.allthemodium.desc.vib_ore}"
 			]
 			hide_dependency_lines: false
 			id: "2DF64CB9298E91EA"
@@ -124,7 +116,9 @@
 		}
 		{
 			dependencies: ["2DF64CB9298E91EA"]
-			description: ["{atm9.quest.allthemodium.desc.unob_ore}"]
+			description: [
+				"{atm9.quest.allthemodium.desc.unob_ore}"
+			]
 			hide_dependency_lines: false
 			id: "4F6E6AF1D9E74CB7"
 			rewards: [
@@ -172,7 +166,9 @@
 			y: 0.5d
 		}
 		{
-			description: ["{atm9.quest.allthemodium.desc.furnace}"]
+			description: [
+				"{atm9.quest.allthemodium.desc.furnace}"
+			]
 			hide_dependency_lines: false
 			id: "2CC97CF32D9C017B"
 			rewards: [{
@@ -205,7 +201,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.furnace_task}"
+				title: "{atm9.quest.allthemodium.task.furnace}"
 				type: "item"
 			}]
 			title: "{atm9.quest.allthemodium.furnace}"
@@ -326,7 +322,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.atm_armor_task}"
+				title: "{atm9.quest.allthemodium.task.atm_armor}"
 				type: "item"
 			}]
 			title: "{atm9.quest.allthemodium.atm_armor}"
@@ -335,9 +331,7 @@
 		}
 		{
 			description: [
-				"{atm9.quest.allthemodium.desc.intro1}"
-				""
-				"{atm9.quest.allthemodium.desc.intro2}"
+				"{atm9.quest.allthemodium.desc.intro}"
 			]
 			icon: {
 				Count: 1
@@ -428,7 +422,9 @@
 		}
 		{
 			dependencies: ["5BDBE666E604FCAC"]
-			description: ["{atm9.quest.allthemodium.desc.atm_tools}"]
+			description: [
+				"{atm9.quest.allthemodium.desc.atm_tools}"
+			]
 			hide_dependency_lines: true
 			hide_until_deps_visible: false
 			id: "30E6C6825D78B5F1"
@@ -486,13 +482,7 @@
 		}
 		{
 			description: [
-				"{atm9.quest.allthemodium.desc.teleport1}"
-				""
-				"{atm9.quest.allthemodium.desc.teleport2}"
-				""
-				"{atm9.quest.allthemodium.desc.teleport3}"
-				""
-				"{atm9.quest.allthemodium.desc.teleport4}"
+				"{atm9.quest.allthemodium.desc.teleport}"
 			]
 			hide_dependency_lines: true
 			hide_until_deps_visible: true
@@ -524,11 +514,7 @@
 		{
 			dependencies: ["3C322474D2F2BA99"]
 			description: [
-				"{atm9.quest.allthemodium.desc.other1}"
-				""
-				"{atm9.quest.allthemodium.desc.other2}"
-				""
-				"{atm9.quest.allthemodium.desc.other3}"
+				"{atm9.quest.allthemodium.desc.other}"
 			]
 			hide_dependency_lines: false
 			icon: "allthemodium:piglich_heart"
@@ -558,9 +544,7 @@
 		{
 			dependencies: ["3C322474D2F2BA99"]
 			description: [
-				"{atm9.quest.allthemodium.desc.mining1}"
-				""
-				"{atm9.quest.allthemodium.desc.mining2}"
+				"{atm9.quest.allthemodium.desc.mining}"
 			]
 			hide_dependency_lines: false
 			icon: {
@@ -586,7 +570,9 @@
 			y: 7.0d
 		}
 		{
-			description: ["{atm9.quest.allthemodium.desc.bees}"]
+			description: [
+				"{atm9.quest.allthemodium.desc.bees}"
+			]
 			hide_dependency_lines: false
 			id: "5D8A3491889F2C4E"
 			rewards: [
@@ -641,7 +627,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.bees_task}"
+				title: "{atm9.quest.allthemodium.task.bees}"
 				type: "item"
 			}]
 			title: "{atm9.quest.allthemodium.bees}"
@@ -829,7 +815,9 @@
 		}
 		{
 			dependencies: ["5BDBE666E604FCAC"]
-			description: ["{atm9.quest.allthemodium.desc.atm_smith}"]
+			description: [
+				"{atm9.quest.allthemodium.desc.atm_smith}"
+			]
 			hide_dependency_lines: false
 			id: "2BF9B347D1FC037A"
 			rewards: [
@@ -858,7 +846,9 @@
 		}
 		{
 			dependencies: ["2DF64CB9298E91EA"]
-			description: ["{atm9.quest.allthemodium.desc.vib_smith}"]
+			description: [
+				"{atm9.quest.allthemodium.desc.vib_smith}"
+			]
 			hide_dependency_lines: false
 			id: "0C1EC499EB16C604"
 			rewards: [
@@ -887,7 +877,9 @@
 		}
 		{
 			dependencies: ["4F6E6AF1D9E74CB7"]
-			description: ["{atm9.quest.allthemodium.desc.unob_smith}"]
+			description: [
+				"{atm9.quest.allthemodium.desc.unob_smith}"
+			]
 			hide_dependency_lines: false
 			id: "1E92D4FEB8E96BBF"
 			rewards: [
@@ -1027,7 +1019,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.vib_armor_task}"
+				title: "{atm9.quest.allthemodium.task.vib_armor}"
 				type: "item"
 			}]
 			title: "{atm9.quest.allthemodium.vib_armor}"
@@ -1147,7 +1139,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.unob_armor_task}"
+				title: "{atm9.quest.allthemodium.task.unob_armor}"
 				type: "item"
 			}]
 			title: "{atm9.quest.allthemodium.unob_armor}"
@@ -1203,7 +1195,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.vib_tools_task}"
+				title: "{atm9.quest.allthemodium.task.vib_tools}"
 				type: "item"
 			}]
 			title: "{atm9.quest.allthemodium.vib_tools}"
@@ -1259,7 +1251,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.unob_tools_task}"
+				title: "{atm9.quest.allthemodium.task.unob_tools}"
 				type: "item"
 			}]
 			title: "{atm9.quest.allthemodium.unob_tools}"
@@ -1269,9 +1261,7 @@
 		{
 			dependencies: ["3C322474D2F2BA99"]
 			description: [
-				"{atm9.quest.allthemodium.desc.beyond1}"
-				""
-				"{atm9.quest.allthemodium.desc.beyond2}"
+				"{atm9.quest.allthemodium.desc.beyond}"
 			]
 			hide_dependency_lines: false
 			icon: "voidtotem:totem_of_void_undying"
