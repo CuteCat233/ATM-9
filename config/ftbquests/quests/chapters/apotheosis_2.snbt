@@ -154,7 +154,7 @@
 			id: "07D875C6BBFF3264"
 			tasks: [{
 				id: "6E24BC7D56597911"
-				title: "{atm9.quest.spawner.apotheosis}"
+				title: "{atm9.quest.spawner.task.apotheosis}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -166,7 +166,7 @@
 			id: "7C3968AF39557751"
 			tasks: [{
 				id: "1F3314E76D27E430"
-				title: "{atm9.quest.spawner.changes}"
+				title: "{atm9.quest.spawner.task.changes}"
 				type: "checkmark"
 			}]
 			x: -1.0d
@@ -427,7 +427,7 @@
 						value: "minecraft:wool"
 					}
 				}
-				title: "Any #minecraft:wool"
+				title: "{atm9.quest.spawner.task.wool}"
 				type: "item"
 			}]
 			title: "{atm9.quest.spawner.wool}"
