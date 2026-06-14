@@ -1185,8 +1185,6 @@
 	"atm9.quest.ae2.subt.ininfity": "I'm not writing the Toy Story line",
 	"atm9.quest.ae2.subt.antimatter": "Not quite antimatter",
 
-	"atm9.quest.ae2.img.star": "Needed For The ATM Star",
-
 	
 	"atm9.quest.adAstra.space_stations": "Space Stations",	
 	"atm9.quest.adAstra.desh": "&cDesh",
@@ -1232,7 +1230,7 @@
     "atm9.quest.adAstra.desc.space_breathing": "If you would rather use your own armor rather than having to wear the &aSpace Suit&r all of the time, you can enchant your helmet using the &dSpace Breathing&r enchant!\\n\\nFor this to work, you'll need an &bOxygen Can&r in your inventory.\\n\\nNote: The Oxygen Can only works for colder planets, but can be upgraded.",
     "atm9.quest.adAstra.desc.oxygen_for_bases": "If you want to make a base outside of the Earth, you'll most likely need a way to get &bOxygen&r.\\n\\nThe &dOxygen Distributor&r is a machine that distributes oxygen in a &asealed&r room. When given water and power, it will automatically distribute the oxygen into the sealed room.\\n\\nThe &9Water Pump&r is used to pump water from an infinite water source below it into the Distributor. You can also pump water in using a sink or an &dEternal Water Block&r.",
 
-	"atm9.quest.adAstra.adv.moon": "Land on the Moon!",
+	"atm9.quest.adAstra.task.moon": "Land on the Moon!",
 
 	"atm9.quest.alchem.basics": "Alchemistry Basics",
 	"atm9.quest.alchem.dissolving": "Dissolving",
@@ -1442,6 +1440,8 @@
 	"atm9.quest.alchem.task.dust": "ATO Element Dusts",
 	"atm9.quest.alchem.task.element": "ATO Elements",
 	"atm9.quest.alchem.task.ingot": "ATO Element Ingots",
+
+	"atm9.quest.alchem.img.alchem": "Alchemistry",
 
 
     "atm9.quest.arsNouveau.welcome": "Welcome to &aArs Nouveau&f!",
@@ -4662,10 +4662,6 @@
 
 
 	"atm9.quest.gregtech.intro.energy": "Energy",
-	"atm9.quest.gregtech.intro.voltage": "Voltage",
-	"atm9.quest.gregtech.intro.amperage": "Amperage",
-	"atm9.quest.gregtech.intro.measurement": "Voltage Loss",
-	"atm9.quest.gregtech.intro.voltage_conversion": "Voltage Conversion",
 	"atm9.quest.gregtech.intro.tools": "Tools",
 	"atm9.quest.gregtech.intro.handy_tools": "Handy Tools",
 	"atm9.quest.gregtech.intro.all_tools": "All the tools!",
@@ -4740,6 +4736,10 @@
 	"atm9.quest.gregtech.intro.subt.almandine_vein": "Sapphires",
 
 	"atm9.quest.gregtech.intro.task.energy": "Energy Concepts",
+	"atm9.quest.gregtech.intro.task.voltage": "Voltage",	
+	"atm9.quest.gregtech.intro.task.amperage": "Amperage",
+	"atm9.quest.gregtech.intro.task.measurement": "Voltage Loss",
+	"atm9.quest.gregtech.intro.task.voltage_conversion": "Voltage Conversion",
 	"atm9.quest.gregtech.intro.task.tools": "GT Hammers",
 	"atm9.quest.gregtech.intro.task.handy_tools.wrenches": "GT Wrenches",
 	"atm9.quest.gregtech.intro.task.handy_tools.files": "GT Files",
@@ -7463,8 +7463,13 @@
 	"atm9.quest.undergarden.desc.blisterbomb.1": "Rotten Blisterberries can't be thrown but when made into Blisterbombs they can be!\\n\\nYou can even go farther and make Boomgourds which will act like TNT that throws Blisterberries everywhere.",
 	"atm9.quest.undergarden.desc.bloodmushrooms.1": "Blood Mushrooms can be found within their Bogs.\\n\\nThey are shaped like Dark Oak Trees and are mostly White with only some blocks having Blood spots on them!",
 
+	"atm9.quest.desc.copyright": "This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission.\\n\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.",
+	"atm9.quest.task.copyright": "Quests By AllTheMods",
+	"atm9.quest.img.star": "Needed For The ATM Star",
+
 
 	"item.kubejs.micro_universe_catalyst.tooltip": "Forged in the fire of a thousand suns.",
 	"kubejs.apiary_ii.tooltip.bee_requirements": "Requires Very High, Any, Metaturnal bees to run",
 	"kubejs.apiary_i.tooltip.bee_eater": "Occasionally eats the bees"
+	
 }
