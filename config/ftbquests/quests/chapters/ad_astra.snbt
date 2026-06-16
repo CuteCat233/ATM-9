@@ -168,7 +168,7 @@
 		{
 			dependencies: ["58452F7D73C30E72"]
 			description: [
-				"{atm9.quest.adAstra.desc.lander}"
+				"{atm9.quest.adAstra.desc.desh}"
 			]
 			id: "438E233A9014DA73"
 			rewards: [
@@ -211,7 +211,7 @@
 				"4785659E5022FEE7"
 			]
 			description: [
-				"{atm9.quest.adAstra.desc.launch}"
+				"{atm9.quest.adAstra.desc.moon}"
 			]
 			hide_dependency_lines: true
 			icon: "ad_astra:moon_globe"
@@ -489,7 +489,7 @@
 		{
 			dependencies: ["0D4A85FBCE0015E1"]
 			description: [
-				"{atm9.quest.adAstra.desc.nasa_workbench}"
+				"{atm9.quest.adAstra.desc.tier_1_rocket}"
 			]
 			icon: {
 				Count: 1
@@ -529,7 +529,7 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.adAstra.nasa_workbench}"
+			title: "{atm9.quest.adAstra.tier_1_rocket}"
 			x: 0.0d
 			y: 4.0d
 		}
@@ -728,7 +728,7 @@
 		{
 			dependencies: ["2A279B011D09A9EE"]
 			description: [
-				"{atm9.quest.adAstra.desc.new_space_suit}"
+				"{atm9.quest.adAstra.desc.netherite_space_gear}"
 			]
 			icon: {
 				Count: 1
@@ -805,14 +805,14 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.adAstra.new_space_suit}"
+			title: "{atm9.quest.adAstra.netherite_space_gear}"
 			x: 1.0d
 			y: 6.5d
 		}
 		{
 			dependencies: ["0EE652B280CB5F55"]
 			description: [
-				"{atm9.quest.adAstra.desc.best_space_suit}"
+				"{atm9.quest.adAstra.desc.jet_suit}"
 			]
 			id: "7B2A7B2298DAE8EC"
 			rewards: [
@@ -875,7 +875,7 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.adAstra.best_space_suit}"
+			title: "{atm9.quest.adAstra.jet_suit}"
 			x: 3.5d
 			y: 4.0d
 		}
@@ -960,7 +960,7 @@
 		{
 			dependencies: ["3017721842588919"]
 			description: [
-				"{atm9.quest.adAstra.desc.oxygen_for_bases}"
+				"{atm9.quest.adAstra.desc.oxygen_distributor}"
 			]
 			id: "72B3CDA595D08587"
 			tasks: [{
@@ -968,7 +968,7 @@
 				item: "ad_astra:oxygen_distributor"
 				type: "item"
 			}]
-			title: "{atm9.quest.adAstra.oxygen_for_bases}"
+			title: "{atm9.quest.adAstra.oxygen_distributor}"
 			x: -4.0d
 			y: 5.5d
 		}

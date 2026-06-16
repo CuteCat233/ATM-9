@@ -38,8 +38,8 @@
 		{
 			dependencies: ["611891F4FB775BD3"]
 			description: [
-				"{atm9.quest.alchem.desc.dissolving}"
-				"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"26E6ED94168A05C4\"}, \"translate\":\"atm9.quest.alchem.click.dissolving\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+				"{atm9.quest.alchem.desc.dissolver}"
+				"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"26E6ED94168A05C4\"}, \"translate\":\"atm9.quest.alchem.click.dissolver\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 			]
 			id: "71815B287D0F162A"
 			rewards: [
@@ -54,19 +54,19 @@
 					xp: 50
 				}
 			]
-			subtitle: "{atm9.quest.alchem.subt.dissolving}"
+			subtitle: "{atm9.quest.alchem.subt.dissolver}"
 			tasks: [{
 				id: "2298898337AC0825"
 				item: "alchemistry:dissolver"
 				type: "item"
 			}]
-			title: "{atm9.quest.alchem.dissolving}"
+			title: "{atm9.quest.alchem.dissolver}"
 			x: 0.0d
 			y: 0.0d
 		}
 		{
 			description: [
-				"{atm9.quest.alchem.desc.basics}"
+				"{atm9.quest.alchem.desc.welcome}"
 			]
 			icon: {
 				Count: 1
@@ -95,20 +95,20 @@
 				}
 			]
 			size: 1.5d
-			subtitle: "{atm9.quest.alchem.subt.basics}"
+			subtitle: "{atm9.quest.alchem.subt.welcome}"
 			tasks: [{
 				id: "37801C29C0F1525E"
 				item: "minecraft:redstone"
 				type: "item"
 			}]
-			title: "{atm9.quest.alchem.basics}"
+			title: "{atm9.quest.alchem.welcome}"
 			x: -1.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["71815B287D0F162A"]
 			description: [
-				"{atm9.quest.alchem.desc.combining}"
+				"{atm9.quest.alchem.desc.combiner}"
 			]
 			hide_dependent_lines: true
 			id: "3AEDE9828B278466"
@@ -117,20 +117,20 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "{atm9.quest.alchem.subt.combining}"
+			subtitle: "{atm9.quest.alchem.subt.combiner}"
 			tasks: [{
 				id: "0BB33DDA43FE1468"
 				item: "alchemistry:combiner"
 				type: "item"
 			}]
-			title: "{atm9.quest.alchem.combining}"
+			title: "{atm9.quest.alchem.combiner}"
 			x: 0.0d
 			y: 1.5d
 		}
 		{
 			dependencies: ["71815B287D0F162A"]
 			description: [
-				"{atm9.quest.alchem.desc.compacting}"
+				"{atm9.quest.alchem.desc.compactor}"
 			]
 			hide_dependent_lines: true
 			id: "0C882F195627F121"
@@ -139,13 +139,13 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "{atm9.quest.alchem.subt.compacting}"
+			subtitle: "{atm9.quest.alchem.subt.compactor}"
 			tasks: [{
 				id: "75EBDEDB404E5CF7"
 				item: "alchemistry:compactor"
 				type: "item"
 			}]
-			title: "{atm9.quest.alchem.compacting}"
+			title: "{atm9.quest.alchem.compactor}"
 			x: 0.0d
 			y: -1.5d
 		}
@@ -158,13 +158,13 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "{atm9.quest.alchem.subt.atomizing}"
+			subtitle: "{atm9.quest.alchem.subt.atomizer}"
 			tasks: [{
 				id: "7C06D2ECF1F3B470"
 				item: "alchemistry:atomizer"
 				type: "item"
 			}]
-			title: "{atm9.quest.alchem.atomizing}"
+			title: "{atm9.quest.alchem.atomizer}"
 			x: -3.5d
 			y: -1.0d
 		}
@@ -177,13 +177,13 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "{atm9.quest.alchem.subt.liquifying}"
+			subtitle: "{atm9.quest.alchem.subt.liquifier}"
 			tasks: [{
 				id: "1100B607C6CC157F"
 				item: "alchemistry:liquifier"
 				type: "item"
 			}]
-			title: "{atm9.quest.alchem.liquifying}"
+			title: "{atm9.quest.alchem.liquifier}"
 			x: -3.5d
 			y: 1.0d
 		}
@@ -1107,7 +1107,7 @@
 				xp: 10
 			}]
 			shape: "square"
-			subtitle: "Sr (38)"
+			subtitle: "{atm9.quest.alchem.subt.Sr}"
 			tasks: [{
 				id: "01C5C2097D0429A3"
 				item: "chemlib:strontium"
@@ -1673,7 +1673,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "{atm9.quest.alchem.subt.for_nether_stars}"
+			subtitle: "{atm9.quest.alchem.subt.to_nether_star}"
 			tasks: [{
 				count: 64L
 				id: "774ED308B068D0B2"
@@ -1693,7 +1693,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "{atm9.quest.alchem.subt.for_nether_stars}"
+			subtitle: "{atm9.quest.alchem.subt.to_nether_star}"
 			tasks: [{
 				count: 64L
 				id: "086F3317E603E4DB"
@@ -1713,7 +1713,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "{atm9.quest.alchem.subt.for_nether_stars}"
+			subtitle: "{atm9.quest.alchem.subt.to_nether_star}"
 			tasks: [{
 				count: 64L
 				id: "5F5177384C91A83A"
@@ -1733,7 +1733,7 @@
 				type: "xp"
 				xp: 50
 			}]
-			subtitle: "{atm9.quest.alchem.subt.for_nether_stars}"
+			subtitle: "{atm9.quest.alchem.subt.to_nether_star}"
 			tasks: [{
 				count: 64L
 				id: "20C233EDB2490C7A"

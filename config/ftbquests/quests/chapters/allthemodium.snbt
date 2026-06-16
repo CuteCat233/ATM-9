@@ -56,7 +56,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.atm_ore}"
+				title: "{atm9.quest.allthemodium.task.atm_ore}"
 				type: "item"
 			}]
 			x: -1.5d
@@ -108,7 +108,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.vib_ore}"
+				title: "{atm9.quest.allthemodium.task.vib_ore}"
 				type: "item"
 			}]
 			x: 0.0d
@@ -159,7 +159,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.allthemodium.unob_ore}"
+				title: "{atm9.quest.allthemodium.task.unob_ore}"
 				type: "item"
 			}]
 			x: 1.5d
@@ -331,7 +331,7 @@
 		}
 		{
 			description: [
-				"{atm9.quest.allthemodium.desc.intro}"
+				"{atm9.quest.allthemodium.desc.welcome}"
 			]
 			icon: {
 				Count: 1
@@ -366,7 +366,7 @@
 				id: "159872B988A173AA"
 				type: "dimension"
 			}]
-			title: "{atm9.quest.allthemodium.intro}"
+			title: "{atm9.quest.allthemodium.welcome}"
 			x: 0.0d
 			y: -1.0d
 		}
@@ -482,7 +482,7 @@
 		}
 		{
 			description: [
-				"{atm9.quest.allthemodium.desc.teleport}"
+				"{atm9.quest.allthemodium.desc.teleport_pad}"
 			]
 			hide_dependency_lines: true
 			hide_until_deps_visible: true
@@ -507,14 +507,14 @@
 				item: "allthemodium:teleport_pad"
 				type: "item"
 			}]
-			title: "{atm9.quest.allthemodium.teleport}"
+			title: "{atm9.quest.allthemodium.teleport_pad}"
 			x: 0.0d
 			y: 7.5d
 		}
 		{
 			dependencies: ["3C322474D2F2BA99"]
 			description: [
-				"{atm9.quest.allthemodium.desc.other}"
+				"{atm9.quest.allthemodium.desc.the_other}"
 			]
 			hide_dependency_lines: false
 			icon: "allthemodium:piglich_heart"
@@ -537,7 +537,7 @@
 				id: "075FBA0F83548F6A"
 				type: "dimension"
 			}]
-			title: "{atm9.quest.allthemodium.other}"
+			title: "{atm9.quest.allthemodium.the_other}"
 			x: 1.5d
 			y: 7.0d
 		}
@@ -711,7 +711,7 @@
 				item: "allthemodium:alloy_sword"
 				type: "item"
 			}]
-			title: "{atm9.quest.allthemodium.sword}"
+			title: "{atm9.quest.allthemodium.alloy_sword}"
 			x: -0.7000000000000001d
 			y: 13.5d
 		}
@@ -735,7 +735,7 @@
 				item: "allthemodium:alloy_axe"
 				type: "item"
 			}]
-			title: "{atm9.quest.allthemodium.axe}"
+			title: "{atm9.quest.allthemodium.alloy_axe}"
 			x: 0.7000000000000001d
 			y: 13.5d
 		}
@@ -759,7 +759,7 @@
 				item: "allthemodium:alloy_pick"
 				type: "item"
 			}]
-			title: "{atm9.quest.allthemodium.pickaxe}"
+			title: "{atm9.quest.allthemodium.alloy_pick}"
 			x: -2.0d
 			y: 13.5d
 		}
@@ -783,7 +783,7 @@
 				item: "allthemodium:alloy_shovel"
 				type: "item"
 			}]
-			title: "{atm9.quest.allthemodium.shovel}"
+			title: "{atm9.quest.allthemodium.alloy_shovel}"
 			x: 2.0d
 			y: 13.5d
 		}
@@ -809,7 +809,7 @@
 				item: "allthemodium:alloy_paxel"
 				type: "item"
 			}]
-			title: "{atm9.quest.allthemodium.paxel}"
+			title: "{atm9.quest.allthemodium.alloy_paxel}"
 			x: 0.0d
 			y: 12.000000000000002d
 		}
