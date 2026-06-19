@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 4.0d
-			hover: ["What do I do with the ATM Star?"]
+			hover: ["atm9.quest.chapter3.img.star"]
 			image: "atm:textures/questpics/creative.png"
 			rotation: 0.0d
 			width: 16.0d
@@ -71,7 +71,7 @@
 								]]
 							}
 							display: {
-								Name: "{\"text\":\"Ultimate Axe of AlfredGG\"}"
+								Name: "{\"translate\":\"atm9.quest.chapter3.reward.welcome\"}"
 							}
 						}
 					}
@@ -281,7 +281,7 @@
 						]
 					}
 				}
-				title: "Creative Power Options"
+				title: "{atm9.quest.chapter3.task.powah}"
 				type: "item"
 			}]
 			title: "{atm9.quest.chapter3.powah}"
@@ -319,7 +319,7 @@
 						]
 					}
 				}
-				title: "Creative Virtual Storage Power"
+				title: "{atm9.quest.chapter3.task.storage}"
 				type: "item"
 			}]
 			title: "{atm9.quest.chapter3.storage}"
@@ -354,7 +354,7 @@
 						]
 					}
 				}
-				title: "Creative Pressure"
+				title: "{atm9.quest.chapter3.pressure}"
 				type: "item"
 			}]
 			title: "{atm9.quest.chapter3.pressure}"
@@ -408,7 +408,7 @@
 							}
 							HideFlags: 2
 							display: {
-								Name: "{\"text\":\"Not a Neutronium Plunger\"}"
+								Name: "{\"translate\":\"atm9.quest.chapter3.reward.greg\"}"
 							}
 						}
 					}

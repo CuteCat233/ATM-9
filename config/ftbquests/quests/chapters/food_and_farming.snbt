@@ -135,7 +135,7 @@
 						value: "forge:crops"
 					}
 				}
-				title: "Any Crops"
+				title: "{atm9.quest.farm.task.food}"
 				type: "item"
 			}]
 			title: "{atm9.quest.farm.food}"
@@ -199,7 +199,7 @@
 						value: "minecraft:wool"
 					}
 				}
-				title: "Any #minecraft:wool"
+				title: "{atm9.quest.farm.task.wool}"
 				type: "item"
 			}]
 			title: "{atm9.quest.farm.wool}"
@@ -559,7 +559,7 @@
 						]
 					}
 				}
-				title: "Basic Hoes"
+				title: "{atm9.quest.farm.task.farming}"
 				type: "item"
 			}]
 			title: "{atm9.quest.farm.farming}"
