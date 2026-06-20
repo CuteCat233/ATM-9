@@ -56,7 +56,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "463EB27ECC7E6509"
-				title: "{atm9.quest.hostile.welcome}"
+				title: "{atm9.quest.hostile.task.welcome}"
 				type: "checkmark"
 			}]
 			x: -2.5d
@@ -171,7 +171,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "7CEA92391454DDD3"
-				title: "{atm9.quest.hostile.data}"
+				title: "{atm9.quest.hostile.task.data}"
 				type: "checkmark"
 			}]
 			x: -2.5d
