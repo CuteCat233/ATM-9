@@ -171,6 +171,7 @@
 			y: 3.0d
 		}
 		{
+			click: " "
 			alpha: 150
 			height: 2.0d
 			hover: ["atm9.quest.evilcraft.img.painting"]
@@ -181,6 +182,7 @@
 			y: 9.0d
 		}
 		{
+			click: " "
 			height: 0.3d
 			hover: ["atm9.quest.img.star"]
 			image: "allthetweaks:item/atm_star"

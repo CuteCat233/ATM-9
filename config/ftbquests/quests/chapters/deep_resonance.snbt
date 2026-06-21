@@ -7,6 +7,7 @@
 	id: "57354476668A066B"
 	images: [
 		{
+			click: " "
 			height: 5.0d
 			hover: ["atm9.quest.deep.img.generator"]
 			image: "atm:textures/questpics/deepresonance/deep_generator.png"
@@ -16,6 +17,7 @@
 			y: -4.5d
 		}
 		{
+			click: " "
 			height: 3.0d
 			hover: ["atm9.quest.deep.img.smelter"]
 			image: "atm:textures/questpics/deepresonance/deep_smelter.png"
@@ -25,6 +27,7 @@
 			y: 4.5d
 		}
 		{
+			click: " "
 			height: 3.0d
 			hover: ["atm9.quest.deep.img.purifier"]
 			image: "atm:textures/questpics/deepresonance/deep_purifier.png"
@@ -34,6 +37,7 @@
 			y: 4.5d
 		}
 		{
+			click: " "
 			height: 1.2d
 			hover: ["atm9.quest.deep.img.laser"]
 			image: "atm:textures/questpics/deepresonance/deep_laser.png"
@@ -43,6 +47,7 @@
 			y: 4.5d
 		}
 		{
+			click: " "
 			height: 1.9428571428571426d
 			hover: ["atm9.quest.deep.img.crystallizer"]
 			image: "atm:textures/questpics/deepresonance/deep_crystallizer.png"
@@ -52,6 +57,7 @@
 			y: 4.5d
 		}
 		{
+			click: " "
 			height: 1.5d
 			hover: ["atm9.quest.deep.img.crystal"]
 			image: "atm:textures/questpics/deepresonance/deep_crystal.png"

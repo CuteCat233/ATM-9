@@ -2825,7 +2825,7 @@
 						id: "ironfurnaces:million_furnace"
 						tag: {
 							display: {
-								Name: "{\"extra\":[{\"color\":\"red\",\"translate\":\"atm9.quest.chapter2.task.display.Ra\"},{\"color\":\"light_purple\",\"translate\":\"atm9.quest.chapter2.task.display.i\"},{\"color\":\"yellow\",\"translate\":\"atm9.quest.chapter2.task.display.n1\"},{\"color\":\"blue\",\"translate\":\"atm9.quest.chapter2.task.display.b\"},{\"color\":\"red\",\"translate\":\"atm9.quest.chapter2.task.display.ow\"},{\"color\":\"yellow\",\"translate\":\"atm9.quest.chapter2.task.display.F\"},{\"color\":\"green\",\"translate\":\"atm9.quest.chapter2.task.display.u\"},{\"color\":\"aqua\",\"translate\":\"atm9.quest.chapter2.task.display.r\"},{\"color\":\"light_purple\",\"translate\":\"atm9.quest.chapter2.task.display.n2\"},{\"color\":\"green\",\"translate\":\"atm9.quest.chapter2.task.display.ace\"}],\"text\":\"\"}"
+								Name: "{\"extra\":[{\"color\":\"rainbow\",\"translate\":\"atm9.quest.chapter2.task.display.million_furnace\"}],\"text\":\"\"}"
 							}
 						}
 					}

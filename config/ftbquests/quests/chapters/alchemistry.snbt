@@ -23,6 +23,7 @@
 			y: -1.5d
 		}
 		{
+			click: " "
 			height: 2.0d
 			hover: ["atm9.quest.alchem.img.alchem"]
 			image: "atm:textures/questpics/alchemistry/alchemistry_logo.png"
@@ -267,7 +268,7 @@
 		{
 			dependencies: ["5121FA28244BE1A2"]
 			description: [
-				"{atm9.quest.alchem.desc.fussion}"
+				"{atm9.quest.alchem.desc.fusion}"
 				""
 				""
 				"{image:atm:textures/questpics/alchemistry/fusion_controller_1.png width:175 height:135 align:1}"

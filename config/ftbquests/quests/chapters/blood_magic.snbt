@@ -7,6 +7,7 @@
 	id: "004F28C5C85F467B"
 	images: [
 		{
+			click: " "
 			height: 0.3d
 			hover: ["atm9.quest.img.star"]
 			image: "allthetweaks:item/atm_star"
