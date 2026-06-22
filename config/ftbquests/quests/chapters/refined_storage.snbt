@@ -1449,7 +1449,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.rs.storage_blocks}"
+				title: "{atm9.quest.rs.task.storage_blocks}"
 				type: "item"
 			}]
 			x: -1.5d
