@@ -988,7 +988,6 @@
 		}
 		{
 			dependencies: ["70C952B8FF3418F6"]
-			description: [""]
 			id: "7D2033E579767AF8"
 			optional: true
 			rewards: [

@@ -423,7 +423,7 @@
 			size: 1.3d
 			tasks: [{
 				id: "70EE14D22DAA95EE"
-				title: "{atm9.quest.mahou.morgan}"
+				title: "{atm9.quest.mahou.task.morgan}"
 				type: "checkmark"
 			}]
 			x: -1.9500000000000002d

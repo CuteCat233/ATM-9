@@ -270,7 +270,6 @@
 		}
 		{
 			dependencies: ["704184F62CA78E1E"]
-			description: [""]
 			id: "691A7545CC65BEAE"
 			tasks: [{
 				id: "6205A7CD340F55EC"
