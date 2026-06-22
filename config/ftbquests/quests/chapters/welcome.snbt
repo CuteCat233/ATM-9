@@ -18,7 +18,7 @@
 		{
 			click: "https://discord.gg/3paFjuRfz9"
 			height: 1.0d
-			hover: ["Join the Discord!"]
+			hover: ["atm9.quest.welcome.img.discord"]
 			image: "ftbchunks:textures/waypoint_default.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -32,9 +32,7 @@
 	quests: [
 		{
 			description: [
-				"{atm9.quest.welcome.desc.welcome1}"
-				""
-				"{atm9.quest.welcome.desc.welcome2}"
+				"{atm9.quest.welcome.desc.welcome}"
 			]
 			icon: "allthetweaks:atm_star"
 			id: "3BC0A50886A3222B"
@@ -55,9 +53,7 @@
 		}
 		{
 			description: [
-				"{atm9.quest.welcome.desc.quests1}"
-				""
-				"{atm9.quest.welcome.desc.quests2}"
+				"{atm9.quest.welcome.desc.quests}"
 			]
 			icon: "ftbquests:book"
 			id: "3708A4780ACEB34E"
@@ -105,11 +101,7 @@
 		}
 		{
 			description: [
-				"{atm9.quest.welcome.desc.claims1}"
-				""
-				"{atm9.quest.welcome.desc.claims2}"
-				""
-				"{atm9.quest.welcome.desc.claims3}"
+				"{atm9.quest.welcome.desc.claims}"
 			]
 			icon: {
 				Count: 1
@@ -160,7 +152,6 @@
 		{
 			description: [
 				"{atm9.quest.welcome.desc.translations}"
-				"&lTranslator List&r (as of pack version v0.3.6)"
 				"&9Spanish&r by &2radzratz&r, &2abel102389&r, &2arivio&r, and &2metabodiru&r."
 				"&9Norwegian&r (Bokmål) by &2Permest&r."
 				"&9Portugese&r by &2oruiva&r."
