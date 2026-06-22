@@ -8,7 +8,7 @@
 	images: [{
 		click: "https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
 		height: 1.0d
-		hover: ["Pilpoh's Productive Trees Guide"]
+		hover: ["atm9.quest.productivetrees.hover.guide"]
 		image: "supplementaries:textures/gui/book/icon/youtube.png"
 		rotation: 0.0d
 		width: 1.0d
@@ -19,7 +19,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["{atm9.quest.productivetrees.desc.intro.1}"]
+			description: ["{atm9.quest.productivetrees.desc.welcome}"]
 			guide_page: " "
 			hide_dependent_lines: true
 			icon: "minecraft:oak_sapling"
@@ -41,7 +41,7 @@
 				}
 				type: "item"
 			}]
-			title: "{atm9.quest.productivetrees.title.intro}"
+			title: "{atm9.quest.productivetrees.welcome}"
 			x: 4.5d
 			y: 11.0d
 		}
@@ -3411,7 +3411,7 @@
 		}
 		{
 			dependencies: ["7C4F1012F5B6532F"]
-			description: ["{atm9.quest.productivetrees.desc.stripping.1}"]
+			description: ["{atm9.quest.productivetrees.desc.stripping}"]
 			id: "543F00603790AD3E"
 			rewards: [{
 				id: "7BA341680A73A46F"
@@ -3430,13 +3430,13 @@
 				item: "productivetrees:stripper"
 				type: "item"
 			}]
-			title: "{atm9.quest.productivetrees.title.stripping}"
+			title: "{atm9.quest.productivetrees.stripping}"
 			x: -2.0d
 			y: 13.0d
 		}
 		{
 			dependencies: ["7C4F1012F5B6532F"]
-			description: ["{atm9.quest.productivetrees.desc.sawing.1}"]
+			description: ["{atm9.quest.productivetrees.desc.sawing}"]
 			id: "76A0592F4C294545"
 			rewards: [{
 				count: 5
@@ -3450,7 +3450,7 @@
 				item: "productivetrees:sawmill"
 				type: "item"
 			}]
-			title: "{atm9.quest.productivetrees.title.sawing}"
+			title: "{atm9.quest.productivetrees.sawing}"
 			x: -1.0d
 			y: 13.0d
 		}

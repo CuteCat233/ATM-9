@@ -91,7 +91,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["{atm9.quest.pylons.desc.pylonsintro.1}"]
+			description: ["{atm9.quest.pylons.desc.welcome}"]
 			id: "30B0240543253EFB"
 			rewards: [{
 				id: "1868F9F8FDFD86EA"
@@ -105,7 +105,7 @@
 				item: "minecraft:polished_blackstone"
 				type: "item"
 			}]
-			title: "{atm9.quest.pylons.title.pylonsintro}"
+			title: "{atm9.quest.pylons.welcome}"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -114,7 +114,7 @@
 				"30B0240543253EFB"
 				"403F76908A8A5661"
 			]
-			description: ["{atm9.quest.pylons.desc.expulsion.1}"]
+			description: ["{atm9.quest.pylons.desc.expulsion_pylon}"]
 			id: "32E52AD6EF194A60"
 			rewards: [
 				{
@@ -144,7 +144,7 @@
 				"30B0240543253EFB"
 				"011F787E620DE9E8"
 			]
-			description: ["{atm9.quest.pylons.desc.interdiction.1}"]
+			description: ["{atm9.quest.pylons.desc.interdiction_pylon}"]
 			id: "5B5FC539BD1F4A73"
 			rewards: [
 				{
@@ -174,7 +174,7 @@
 				"30B0240543253EFB"
 				"034A9FBCA6D79BB6"
 			]
-			description: ["{atm9.quest.pylons.desc.harvester.1}"]
+			description: ["{atm9.quest.pylons.desc.harvester_pylon}"]
 			id: "12ED1EE85E146A4B"
 			rewards: [
 				{
@@ -204,7 +204,7 @@
 				"30B0240543253EFB"
 				"09D18512037386C1"
 			]
-			description: ["{atm9.quest.pylons.desc.infusion.1}"]
+			description: ["{atm9.quest.pylons.desc.infusion_pylon}"]
 			id: "18246A48C20B29D8"
 			rewards: [
 				{
@@ -230,7 +230,7 @@
 			y: -1.7999999999999998d
 		}
 		{
-			description: ["{atm9.quest.pylons.desc.explusion.1}"]
+			description: ["{atm9.quest.pylons.desc.player_filter}"]
 			hide_details_until_startable: false
 			id: "403F76908A8A5661"
 			shape: "rsquare"
@@ -244,7 +244,7 @@
 			y: -3.15d
 		}
 		{
-			description: ["{atm9.quest.pylons.desc.mobfilter.1}"]
+			description: ["{atm9.quest.pylons.desc.mob_filter}"]
 			id: "011F787E620DE9E8"
 			rewards: [{
 				count: 10
@@ -263,7 +263,7 @@
 			y: 3.15d
 		}
 		{
-			description: ["{atm9.quest.pylons.desc.potionfilter.1}"]
+			description: ["{atm9.quest.pylons.desc.potion_filter}"]
 			id: "09D18512037386C1"
 			rewards: [
 				{
@@ -289,7 +289,7 @@
 			y: -3.15d
 		}
 		{
-			description: ["{atm9.quest.pylons.desc.harvesterex.1}"]
+			description: ["{atm9.quest.pylons.desc.hoes}"]
 			icon: {
 				Count: 1
 				id: "minecraft:diamond_hoe"
@@ -325,7 +325,7 @@
 				}
 				type: "item"
 			}]
-			title: "{atm9.quest.pylons.title.hoes}"
+			title: "{atm9.quest.pylons.hoes}"
 			x: -3.15d
 			y: 3.15d
 		}
