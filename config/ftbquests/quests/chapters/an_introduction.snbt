@@ -679,7 +679,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "{atm9.quest.gregtech.intro.subt.goethite_vein.1}"
+			subtitle: "{atm9.quest.gregtech.intro.subt.netherrack_goethite_ore}"
 			tasks: [{
 				id: "7FA60EE3F8F0C57B"
 				item: {
@@ -814,7 +814,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "{atm9.quest.gregtech.intro.subt.grossular_vein.1}"
+			subtitle: "{atm9.quest.gregtech.intro.subt.netherrack_grossular_ore}"
 			tasks: [{
 				id: "047722F89EBCC4DE"
 				item: {
@@ -1551,7 +1551,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "{atm9.quest.gregtech.intro.subt.goethite_vein.2}"
+			subtitle: "{atm9.quest.gregtech.intro.subt.goethite_ore}"
 			tasks: [{
 				id: "6029CFFA9BD91661"
 				item: {
@@ -2031,7 +2031,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "{atm9.quest.gregtech.intro.subt.grossular_vein.2}"
+			subtitle: "{atm9.quest.gregtech.intro.subt.grossular_ore}"
 			tasks: [{
 				id: "0CD83CD8CF777CB9"
 				item: {

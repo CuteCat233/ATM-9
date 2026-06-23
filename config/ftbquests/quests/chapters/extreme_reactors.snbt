@@ -174,13 +174,13 @@
 		{
 			dependencies: ["75AD0CEBC1335915"]
 			description: [
-				"{atm9.quest.er.desc.basic_reactor.page.1}"
+				"{atm9.quest.er.desc.basic_reactor.page1}"
 				""
 				"{@pagebreak}"
-				"{atm9.quest.er.desc.basic_reactor.page.2}"
+				"{atm9.quest.er.desc.basic_reactor.page2}"
 				""
 				"{@pagebreak}"
-				"{atm9.quest.er.desc.basic_reactor.page.3}"
+				"{atm9.quest.er.desc.basic_reactor.page3}"
 				""
 				"{image:atm:textures/questpics/extremereactors/3x3sample.png width:150 height:150 align:1}"
 			]
@@ -1131,15 +1131,15 @@
 		{
 			dependencies: ["2AF31F1769085641"]
 			description: [
-				"{atm9.quest.er.desc.reprocessor_frame.page.1}"
+				"{atm9.quest.er.desc.reprocessor_frame.page1}"
 				""
 				"{@pagebreak}"
-				"{atm9.quest.er.desc.reprocessor_frame.page.2}"
+				"{atm9.quest.er.desc.reprocessor_frame.page2}"
 				""
 				"{image:atm:textures/questpics/extremereactors/reprocessorframe.png width:100 height:175 align:1}"
 				""
 				"{@pagebreak}"
-				"{atm9.quest.er.desc.reprocessor_frame.page.3}"
+				"{atm9.quest.er.desc.reprocessor_frame.page3}"
 				""
 				"{image:atm:textures/questpics/extremereactors/reprocessorfull.png width:100 height:150 align:1}"
 			]
