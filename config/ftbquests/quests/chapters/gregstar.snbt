@@ -1398,7 +1398,7 @@
 			y: 10.5d
 		}
 		{
-			description: ["{atm9.quest.gregtech.star.desc.zpm_superconductor.1}"]
+			description: ["{atm9.quest.gregtech.star.desc.zpm_superconductor}"]
 			id: "65B40CBB9C6AD5DF"
 			rewards: [{
 				exclude_from_claim_all: true

@@ -1088,7 +1088,7 @@
 				title: "{atm9.quest.gregtech.mv.task.energy_converter}"
 				type: "item"
 			}]
-			title: "{atm9.quest.gregtech.mv.mvEnergyConverters.1}"
+			title: "{atm9.quest.gregtech.mv.energy_converter}"
 			x: -9.5d
 			y: 1.5d
 		}

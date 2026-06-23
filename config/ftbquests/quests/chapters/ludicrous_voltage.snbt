@@ -117,7 +117,7 @@
 				random_bonus: 16
 				type: "item"
 			}]
-			subtitle: "{atm9.quest.gregtech.luv.subt.rhodium_dust.1}"
+			subtitle: "{atm9.quest.gregtech.luv.subt.rhodium_dust}"
 			tasks: [{
 				id: "4170FD51FA291A9D"
 				item: "gtceu:rhodium_dust"
