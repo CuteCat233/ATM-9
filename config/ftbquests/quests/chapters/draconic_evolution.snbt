@@ -790,7 +790,7 @@
 				type: "item"
 			}]
 			shape: "square"
-			subtitle: "Draconic Power Storage"
+			subtitle: "{atm9.quest.draconic.subt.core}"
 			tasks: [{
 				id: "7433809103907ECE"
 				item: "draconicevolution:energy_core"

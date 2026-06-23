@@ -3399,7 +3399,7 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "{atm9.quest.productiveBees.brown_shroom_bee}"
+			subtitle: "{atm9.quest.productiveBees.subt.brown_shroom_bee}"
 			tasks: [{
 				icon: {
 					Count: 1

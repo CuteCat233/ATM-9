@@ -2216,6 +2216,7 @@
 				xp: 10
 			}]
 			shape: "square"
+			subtitle: "{atm9.quest.storage.subt.rftools}"
 			size: 1.5d
 			tasks: [{
 				id: "362D501E0D663695"

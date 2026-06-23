@@ -3208,7 +3208,7 @@
 				"7E92ED270C67FDE5"
 				"6D88C19F47D0D469"
 			]
-			description: ["{atm9.quest.powah.desc.energizing_orb}"]
+			description: ["{atm9.quest.powah.desc.energizing_rod}"]
 			hide_dependency_lines: true
 			id: "1C273D9E046FD18A"
 			rewards: [
