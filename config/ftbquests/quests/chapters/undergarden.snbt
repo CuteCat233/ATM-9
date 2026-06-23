@@ -1201,7 +1201,7 @@
 		}
 		{
 			dependencies: ["51E2728C5E35A152"]
-			description: ["{atm9.quest.undergarden.desc.froststeeltools}"]
+			description: ["{atm9.quest.undergarden.desc.froststeel_tool}"]
 			id: "46DCB235D3FEDA61"
 			rewards: [{
 				count: 4
@@ -1268,7 +1268,7 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.undergarden.froststeeltools}"
+			title: "{atm9.quest.undergarden.froststeel_tool}"
 			x: 0.0d
 			y: 4.0d
 		}

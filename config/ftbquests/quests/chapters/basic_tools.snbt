@@ -813,7 +813,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.tools.6pick4}"
+				title: "{atm9.quest.tools.task.6pick4}"
 				type: "item"
 			}]
 			x: 2.0d
@@ -961,7 +961,7 @@
 						]
 					}
 				}
-				title: "{atm9.quest.tools.4pick1}"
+				title: "{atm9.quest.tools.task.4pick1}"
 				type: "item"
 			}]
 			x: 1.0d

@@ -874,7 +874,7 @@
 							]
 						}
 					}
-					title: "{atm9.quest.gregtech.lv.resource_generation.rock_crusher}"
+					title: "{atm9.quest.gregtech.lv.task.resource_generation.rock_crusher}"
 					type: "item"
 				}
 				{

@@ -764,7 +764,7 @@
 				table_id: 7025454341029952768L
 				type: "loot"
 			}]
-			subtitle: "{atm9.quest.gregtech.star.subt.theStarThatStartedItAll}"
+			subtitle: "{atm9.quest.gregtech.star.subt.patrick_star}"
 			tasks: [{
 				id: "6F4F04DFB8480B74"
 				item: "allthetweaks:patrick_star"

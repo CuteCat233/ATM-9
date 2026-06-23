@@ -1034,7 +1034,7 @@
 				random_bonus: 16
 				type: "item"
 			}]
-			subtitle: "{atm9.quest.gregtech.zpm.subt.morePipes}"
+			subtitle: "{atm9.quest.gregtech.zpm.subt.normal_laser_pipe}"
 			tasks: [{
 				id: "1251249FA97FD527"
 				item: "gtceu:normal_laser_pipe"

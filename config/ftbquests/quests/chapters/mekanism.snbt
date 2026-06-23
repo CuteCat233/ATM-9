@@ -1653,7 +1653,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.hotBrine}"
+			subtitle: "{atm9.quest.mekanism.subt.heater}"
 			tasks: [{
 				id: "6E75525A5D88EF23"
 				item: {

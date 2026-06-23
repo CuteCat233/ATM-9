@@ -121,7 +121,7 @@
 				"{atm9.quest.eidolonRepraised.desc.crucible}"
 			]
 			id: "704184F62CA78E1E"
-			subtitle: "{atm9.quest.eidolonRepraised.subt.complicated}"
+			subtitle: "{atm9.quest.eidolonRepraised.subt.crucible}"
 			tasks: [{
 				id: "1852A283F796E3F8"
 				item: "eidolon:crucible"

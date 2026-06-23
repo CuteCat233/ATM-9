@@ -2248,7 +2248,7 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "{atm9.quest.productiveBees.subt.dirtNest}"
+			subtitle: "{atm9.quest.productiveBees.subt.dirt_nest}"
 			tasks: [{
 				id: "4A6ADD52B113E3CA"
 				title: "{atm9.quest.productiveBees.task.leaf_cutter_bee}"
@@ -2580,7 +2580,7 @@
 			subtitle: "{atm9.quest.productiveBees.subt.dye_bee}"
 			tasks: [{
 				id: "4FC90CCB41E58D5A"
-				title: "{atm9.quest.productiveBees.dyeBee}"
+				title: "{atm9.quest.productiveBees.dye_bee}"
 				type: "checkmark"
 			}]
 			title: "{atm9.quest.productiveBees.dye_bee}"

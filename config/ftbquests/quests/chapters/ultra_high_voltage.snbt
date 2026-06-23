@@ -268,7 +268,7 @@
 			}]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "{atm9.quest.gregtech.uhv.subt.uhvTop}"
+			subtitle: "{atm9.quest.gregtech.uhv.subt.uhv_hatch}"
 			tasks: [{
 				id: "3009E94D530487D4"
 				item: "gtceu:uhv_energy_input_hatch"

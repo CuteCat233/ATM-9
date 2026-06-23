@@ -1292,7 +1292,7 @@
 				item: "bigreactors:fluidizercontroller"
 				type: "item"
 			}]
-			title: "{atm9.quest.er.fluidizer_control}"
+			title: "{atm9.quest.er.fluidizer_controller}"
 			x: -4.0d
 			y: 9.5d
 		}

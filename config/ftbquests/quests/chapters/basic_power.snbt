@@ -41,7 +41,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "4800DD5A7039B8B7"
-				title: "{atm9.quest.power.ATP}"
+				title: "{atm9.quest.power.task.ATP}"
 				type: "checkmark"
 			}]
 			x: -3.5d
