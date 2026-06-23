@@ -171,7 +171,7 @@
 							]
 						}
 					}
-					title: "Hammock"
+					title: "{atm9.quest.tips.task.sleep.hammock}"
 					type: "item"
 				}
 				{
@@ -248,7 +248,7 @@
 							]
 						}
 					}
-					title: "Sleeping Bags"
+					title: "{atm9.quest.tips.task.sleep.bag}"
 					type: "item"
 				}
 			]
@@ -330,7 +330,7 @@
 						]
 					}
 				}
-				title: "Construction Wands"
+				title: "{atm9.quest.tips.task.sleep.wand}"
 				type: "item"
 			}]
 			title: "{atm9.quest.tips.wand}"
@@ -377,7 +377,7 @@
 			subtitle: "{atm9.quest.tips.subt.tricks}"
 			tasks: [{
 				id: "3DC008A578A93CCF"
-				title: "Tips and Tricks!"
+				title: "{atm9.quest.tips.tricks}"
 				type: "checkmark"
 			}]
 			title: "{atm9.quest.tips.tricks}"
@@ -421,7 +421,7 @@
 						]
 					}
 				}
-				title: "Simple Magnets"
+				title: "{atm9.quest.tips.magnet}"
 				type: "item"
 			}]
 			title: "{atm9.quest.tips.magnet}"
@@ -541,7 +541,7 @@
 			subtitle: "{atm9.quest.tips.subt.powah}"
 			tasks: [{
 				id: "2C621D97D1ED56DE"
-				title: "RF Generation"
+				title: "{atm9.quest.tips.powah}"
 				type: "checkmark"
 			}]
 			title: "{atm9.quest.tips.powah}"
@@ -572,7 +572,7 @@
 			subtitle: "{atm9.quest.tips.subt.mahou}"
 			tasks: [{
 				id: "655D747AB2AECCF2"
-				title: "Mahou Tsukai"
+				title: "{atm9.quest.tips.mahou}"
 				type: "checkmark"
 			}]
 			title: "{atm9.quest.tips.mahou}"
@@ -592,7 +592,7 @@
 			subtitle: "{atm9.quest.tips.subt.spawner}"
 			tasks: [{
 				id: "30F1C1BC1AD18EA5"
-				title: "Apotheosis"
+				title: "{atm9.quest.tips.spawner}"
 				type: "checkmark"
 			}]
 			title: "{atm9.quest.tips.spawner}"

@@ -53,9 +53,7 @@
 	quests: [
 		{
 			description: [
-				"{atm9.quest.gregtech.uv.desc.crystalProcessors.1}"
-				""
-				"{atm9.quest.gregtech.uv.desc.crystalProcessors.2}"
+				"{atm9.quest.gregtech.uv.desc.welcome}"
 			]
 			id: "5D1B9EACB654BDF8"
 			rewards: [{
@@ -65,7 +63,7 @@
 			}]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.gregtech.uv.subt.swarovski}"
+			subtitle: "{atm9.quest.gregtech.uv.subt.welcome}"
 			tasks: [{
 				id: "2D7446E656151002"
 				item: "gtceu:crystal_processor_mainframe"
