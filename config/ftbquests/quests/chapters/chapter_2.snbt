@@ -3202,6 +3202,7 @@
 				item: "evilcraft:piercing_vengeance_focus"
 				type: "item"
 			}]
+			title: "{atm9.quest.chapter2.vengenance}"
 			x: 3.0d
 			y: -6.5d
 		}
@@ -3237,6 +3238,7 @@
 				}
 				type: "item"
 			}]
+			title: "{atm9.quest.chapter2.mace}"
 			x: 4.0d
 			y: -5.5d
 		}
