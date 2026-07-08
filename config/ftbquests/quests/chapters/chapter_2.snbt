@@ -2163,11 +2163,11 @@
 		{
 			dependencies: ["11B8C5F88DCB3BF5"]
 			description: [
-				"{atm9.quest.chapter2.desc.create1}"
+				"{atm9.quest.chapter2.desc.create.part1}"
 				""
 				"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"100C477F4E63F20A\"}, \"translate\": \"atm9.quest.chapter2.click.check_out\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 				""
-				"{atm9.quest.chapter2.desc.create2}"
+				"{atm9.quest.chapter2.desc.create.part2}"
 			]
 			hide_dependency_lines: true
 			id: "695A0DC585FB6E97"
