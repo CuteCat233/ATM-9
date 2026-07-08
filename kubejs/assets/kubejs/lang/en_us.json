@@ -533,7 +533,7 @@
 	"atm9.quest.chapter2.undead": "&6Master of The Undead",
 	"atm9.quest.chapter2.universe": "&6Master of The Universe",
 	"atm9.quest.chapter2.creation": "&6Master of Creation",
-	"atm9.quest.chapter2.ATM_Star": "&6ATM Star",
+	"atm9.quest.chapter2.atm_star": "&6ATM Star",
 
 	"atm9.quest.chapter2.desc.next": "The journey to the &6ATM Star&r takes a LOT of time and materials, so how do you get started?\\n\\nThere isn't one path to the Star, but all paths will eventually lead you there.\\n\\nTo get started, we'll need to take a look at the 3 most important factors in your playthrough:\\n\\n&cPower&r, &aStorage&r, and &2Resource Generation&r.",
 	"atm9.quest.chapter2.desc.resource_generation": "If you want to make the &6ATM Star&r, you'll need a ton of resources!\\n\\nThe ATM packs provide a variety of ways to generate tons of resources using various mods! While some of these aren't required for the Star itself, this quest branches out to show you all of the different ways to generate the resources you'll need!",
@@ -589,13 +589,13 @@
 	"atm9.quest.chapter2.desc.stasis": "You'll need this to hold a &dWither&r in place so you can extract &bEther Gas&r from it!",
 	"atm9.quest.chapter2.desc.spells": "If you love magic, you'll love playing around with this mod!\\n\\nTo create this item, you'll need to adventure into the structures in the mod to find &dRunestones&r.\\n\\nYou'll also need to travel to the Nether to kill &5Ancient Knights&r for their Cinder Essence. This is used to make the &dUpgrade Orb&r. You can find the other items needed in loot chests or from mining in the Overworld.",
 	"atm9.quest.chapter2.desc.reactors": "&dExtreme Reactors&r is all about creating customizable multiblock reactors and turbines for all of your power needs!",
-	"atm9.quest.chapter2.desc.void_forge1": "To make the &dVoid Forge&r we need for the &6Star&r, we'll need to go on an adventure first!\\n\\nThe first part of this trip will take you to the &dSoul Forge&r in the Nether. Defeat the &cNetherite Monstrosity&r there and claim the &dInfernal Forge&r as a drop!\\n\\nNote: You can use &dEyes of Monstrosity&r to find the structure as well as a Structure Compass.\\n\\nOn to the next page!",
-	"atm9.quest.chapter2.desc.void_forge2": "For the next step, we need to head back to the Overworld to locate the &dHarbinger&r. You can find this boss in the &aAncient Factory&r structure. This is like fighting the Wither, but on hard mode. :)\\n\\nOnce you've found the structure, use a &dNether Star&r to active the boss, and good luck!\\n\\nIf you manage to defeat it, you'll get a &6Witherite Block&r which we'll use to make the &6Mechanical Fusion Anvil&r with.\\n\\nTo the next page!",
-	"atm9.quest.chapter2.desc.void_forge3": "We want to use the Fusion Anvil we made to upgrade our &dInfernal Forge&r to a &dVoid Forge&r... but we're missing one crucial piece: a &5Void Core&r. To get this, head to the End and locate the &eRuined Citadel&r. Defeat the &dEnder Golem&r inside and make your &dVoid Forge&r!",
+	"atm9.quest.chapter2.desc.void_forge.page1": "To make the &dVoid Forge&r we need for the &6Star&r, we'll need to go on an adventure first!\\n\\nThe first part of this trip will take you to the &dSoul Forge&r in the Nether. Defeat the &cNetherite Monstrosity&r there and claim the &dInfernal Forge&r as a drop!\\n\\nNote: You can use &dEyes of Monstrosity&r to find the structure as well as a Structure Compass.\\n\\nOn to the next page!",
+	"atm9.quest.chapter2.desc.void_forge.page2": "For the next step, we need to head back to the Overworld to locate the &dHarbinger&r. You can find this boss in the &aAncient Factory&r structure. This is like fighting the Wither, but on hard mode. :)\\n\\nOnce you've found the structure, use a &dNether Star&r to active the boss, and good luck!\\n\\nIf you manage to defeat it, you'll get a &6Witherite Block&r which we'll use to make the &6Mechanical Fusion Anvil&r with.\\n\\nTo the next page!",
+	"atm9.quest.chapter2.desc.void_forge.page3": "We want to use the Fusion Anvil we made to upgrade our &dInfernal Forge&r to a &dVoid Forge&r... but we're missing one crucial piece: a &5Void Core&r. To get this, head to the End and locate the &eRuined Citadel&r. Defeat the &dEnder Golem&r inside and make your &dVoid Forge&r!",
 	"atm9.quest.chapter2.desc.create1": "Making the &6ATM Star&r requires a massive recipe using 55 &aCreate&r &eMechanical Crafters&r.\\n\\nWhile you won't need to be a master at &aCreate&r to set this up, you'll need a basic understanding of the mod to power it.",
 	"atm9.quest.chapter2.desc.create2": "Note: You can power this with Large Water Wheels.",
 	"atm9.quest.chapter2.desc.reality": "Note: To make the Flight Module needed for this, you'll need to first make a &aSyringe&r and then fill it by attacking &bGhasts&r with it.",
-	"atm9.quest.chapter2.desc.ATM_Star": "The ATM Star. The Ultimate Achievement in ATM9. Congratulations!\\n\\nWith this, you can now make &dCreative&r items! Check out the &dCreative&r Quest chapter to find out more!",
+	"atm9.quest.chapter2.desc.atm_star": "The ATM Star. The Ultimate Achievement in ATM9. Congratulations!\\n\\nWith this, you can now make &dCreative&r items! Check out the &dCreative&r Quest chapter to find out more!",
 	"atm9.quest.chapter2.desc.nether_stars": "You didn't hear it from me, but there are some interesting ways to make &5Inert Nether Stars&r which can be turned into Nether Stars",
 
 	"atm9.quest.chapter2.task.LDS": "Large Digital Storage Parts",
@@ -622,7 +622,7 @@
 	"atm9.quest.chapter2.reward.undead": "Master of Undead",
 	"atm9.quest.chapter2.reward.star_casing": "Master of Alloy",
 
-	"atm9.quest.chapter2.atm_star": "Take over the world.",
+	"atm9.quest.chapter2.subt.atm_star": "Take over the world.",
 
 	"atm9.quest.chapter2.click.check_out": "Click here to check out the questline!",
 	"atm9.quest.chapter2.click.start": "Click here to start the questline!",

@@ -2683,7 +2683,7 @@
 				"67E154DC24F54854"
 				"73CD6CE2B10830B9"
 			]
-			description: ["{atm9.quest.chapter2.desc.ATM_Star}"]
+			description: ["{atm9.quest.chapter2.desc.atm_star}"]
 			hide_dependency_lines: true
 			id: "464D0C17601E8A2B"
 			rewards: [
@@ -2712,13 +2712,13 @@
 			]
 			shape: "gear"
 			size: 4.0d
-			subtitle: "{atm9.quest.chapter2.atm_star}"
+			subtitle: "{atm9.quest.chapter2.subt.atm_star}"
 			tasks: [{
 				id: "5F6988D125AAB233"
 				item: "allthetweaks:atm_star"
 				type: "item"
 			}]
-			title: "{atm9.quest.chapter2.ATM_Star}"
+			title: "{atm9.quest.chapter2.atm_star}"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -3116,13 +3116,13 @@
 		{
 			dependencies: ["11B8C5F88DCB3BF5"]
 			description: [
-				"{atm9.quest.chapter2.desc.void_forge1}"
+				"{atm9.quest.chapter2.desc.void_forge.page1}"
 				""
 				"{@pagebreak}"
-				"{atm9.quest.chapter2.desc.void_forge2}"
+				"{atm9.quest.chapter2.desc.void_forge.page2}"
 				""
 				"{@pagebreak}"
-				"{atm9.quest.chapter2.desc.void_forge3}"
+				"{atm9.quest.chapter2.desc.void_forge.page3}"
 			]
 			hide_dependency_lines: true
 			icon: {
